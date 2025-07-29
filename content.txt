@@ -1,3 +1,6 @@
 Learning Rate: how fast you need to reach to global minimum. 
 Hidden layer: It will tell you how many layers and in each hidden layers, number of neurons will be needed. 
 Max_iteration: How many times your model will go through your data
+
+Edited on July 29, 2025 along with Akshatha
+
